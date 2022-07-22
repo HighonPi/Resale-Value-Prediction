@@ -10,7 +10,5 @@ I have trained a ML model to predict the resale value of cars based on attribute
 1. Download the code files onto your system.<br>
 2. Install the required libraries which are mentioned in the requirement.txt document to run the application using pip or other package installer.<br>
 3. Go to the folder where the files are stored on your terminal and run app.py.<br>
-![Run-Command](./images/Run.png)
 4. Copy the address where the application is hosted and run it on the browser of your choice.
-![Address](./images/Address.png)
 ![Browser](./images/Browser.png)
