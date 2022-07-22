@@ -5,7 +5,6 @@ I have trained a ML model to predict the resale value of cars based on attribute
 1. The dataset was taken from Kaggle <br>[Link]: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho <br>
 2. I used Google Collab to build my model with sklearn features. The best fitting model parameters were exported as a .pickle file to be used to predict prices while deployed.<<br>
 3. I deployed the model using flask and jsonify libraries and a simple front-end interface (fig. below) using HTML to get input data to predict the car-price.<br>
-![Front-End](./images/Interface.png)
 ## Instructions to Use Model
 1. Download the code files onto your system.<br>
 2. Install the required libraries which are mentioned in the requirement.txt document to run the application using pip or other package installer.<br>
